@@ -1,0 +1,12 @@
+#wrapper {
+    width: 500px;
+    height: 200px;
+    background: #141414;
+    margin: 50px auto;
+}
+
+.center {
+    width: 50%;
+    height: 50%;
+    background: #00b3b3;
+}
